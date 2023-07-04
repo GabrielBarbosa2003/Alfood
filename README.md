@@ -6,15 +6,14 @@
 # Índice 
 
 * [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Descrição do Projeto](#Descrição-do-Projeto)
+* [Status do Projeto](#Status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#Funcionalidades-e-Demonstração-da-Aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
+* [Observações gerais](#Observações-gerais)
 
-  # Descriçao do Projeto
+  # Descrição do Projeto
     O alfood é um atual sistema de restaurantes que é gerenciado por um administrador!<br/>
   O administrador possui o poder de criar novos restaurantes e pratos para cada respectivo restaurane através do sistema de gerenciamento disponivel.
 ![capa restaurante](https://github.com/GabrielBarbosa2003/Alfood/assets/54041388/cf2c1946-d88f-47d1-8a20-857177a9d9be)
@@ -36,3 +35,19 @@ Com um sistema simples para o cliente, porém útil, foi criado ambiente fácil 
 - `Funcionalidade 2`: Editar pratos e restaurantes
 - `Funcionalidade 3`: Exluir pratos e restaurantes
 
+ # 🛠️ Abrir e rodar o projeto
+Para rodar o front-end, basta abrir a pasta "front-alfood" e então executar um "npm install" para instalar todas as dependências do projeto.
+Já o back-end, será necessario ter o docker em seu computador instalado.
+Após instalado:
+1- docker-build;
+2- docker-compose up
+
+Após todos esses passos, o sistema deverá rodar em sua máquina! 
+
+#  Técnicas e tecnologias utilizadas
+* TypeScript
+* ReactJS
+* Pyton
+
+  # Observações gerais
+  Esse projeto faz parte de um estudo meu dentro da plataforam de cursos alura, onde com a ajuda de um instrutor, foi possivel o desenvolvimento desse sistema.
