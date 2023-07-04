@@ -8,7 +8,7 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Funcionalidades do projeto](#Funcionalidades-do-projeto)
-* [Abrir e rodar projeto](#Abrir-e-rodar-o-projeto)
+* [Abrir e rodar projeto](#Abrir-e-rodar-projeto)
 * [Técnicas e tecnologias utilizadas](#Técnicas-e-tecnologias-utilizadas)
 * [Observações gerais](#Observações-gerais)
 
