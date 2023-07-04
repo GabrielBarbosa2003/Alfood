@@ -7,10 +7,9 @@
 
 * [Índice](#índice)
 * [Descrição do Projeto](#Descrição-do-Projeto)
-* [Status do Projeto](#Status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#Funcionalidades-e-Demonstração-da-Aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Funcionalidades do projeto](#Funcionalidades-do-projeto)
+* [Abrir e rodar o projeto](#Abrir-e-rodar-o-projeto)
+* [Técnicas e tecnologias utilizadas](#Técnicas-e-tecnologias-utilizadas)
 * [Observações gerais](#Observações-gerais)
 
   # Descrição do Projeto
