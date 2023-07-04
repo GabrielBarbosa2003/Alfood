@@ -12,8 +12,8 @@
 * [Técnicas e tecnologias utilizadas](#Técnicas-e-tecnologias-utilizadas)
 * [Observações gerais](#Observações-gerais)
 
-  # Descrição do Projeto
-    O alfood é um atual sistema de restaurantes que é gerenciado por um administrador!<br/>
+# Descrição do Projeto
+  O alfood é um atual sistema de restaurantes que é gerenciado por um administrador!<br/>
   O administrador possui o poder de criar novos restaurantes e pratos para cada respectivo restaurane através do sistema de gerenciamento disponivel.
 ![capa restaurante](https://github.com/GabrielBarbosa2003/Alfood/assets/54041388/cf2c1946-d88f-47d1-8a20-857177a9d9be)
 ![restaurantes](https://github.com/GabrielBarbosa2003/Alfood/assets/54041388/eeaab89a-dbc4-4ed0-8dcc-ce8a4959544d)
@@ -34,7 +34,7 @@ Com um sistema simples para o cliente, porém útil, foi criado ambiente fácil 
 - `Funcionalidade 2`: Editar pratos e restaurantes
 - `Funcionalidade 3`: Exluir pratos e restaurantes
 
- # 🛠️ Abrir e rodar o projeto
+# 🛠️ Abrir e rodar o projeto
 Para rodar o front-end, basta abrir a pasta "front-alfood" e então executar um "npm install" para instalar todas as dependências do projeto.
 Já o back-end, será necessario ter o docker em seu computador instalado.
 Após instalado:
