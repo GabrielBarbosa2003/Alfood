@@ -38,7 +38,7 @@ Com um sistema simples para o cliente, porém útil, foi criado ambiente fácil 
 Para rodar o front-end, basta abrir a pasta "front-alfood" e então executar um "npm install" para instalar todas as dependências do projeto.
 Já o back-end, será necessario ter o docker em seu computador instalado.
 Após instalado:
-1- docker-build;
+1- docker-compose build;
 2- docker-compose up
 
 Após todos esses passos, o sistema deverá rodar em sua máquina! 
